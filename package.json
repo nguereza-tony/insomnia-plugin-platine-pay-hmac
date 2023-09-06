@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-platine-pay-hmac",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "platine-pay-hmac",
+    "description": ""
+  },
+  "main": "main.js"
+}
